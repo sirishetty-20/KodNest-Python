@@ -13,7 +13,12 @@
 
 class Student:
     def study(self,roll_no,name,age,marks):
+         print(roll_no)
+         print(name)
+         print(age)
+         print(marks)
          print(f"{name} is studying")
+         print
 s1=Student()
 s2=Student()
 s1.study(11,"Amith",22,85)

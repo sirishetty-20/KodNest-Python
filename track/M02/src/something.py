@@ -18,3 +18,6 @@ for i in range(n):
     technologies.append(skill)
 c1=Course(name,duration,trainer_name,start_date,technologies)
 c1.display()
+
+
+
